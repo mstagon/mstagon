@@ -1,5 +1,5 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mstagon)](https://git.io/streak-stats)
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=CMS🎨&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=CMS&fontSize=70)
 
 <div align=center>
 
@@ -14,10 +14,10 @@
 
 <br>
 
-[![Python](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white)](https://github.com/mstagon)
-[![Django](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white)](https://github.com/mstagon)
-[![Flask](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white)](https://github.com/mstagon)
-[![FastApi](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white)](https://github.com/mstagon)
+[![Python](https://img.shields.io/badge/Python-FF3E00?style=flat-square&logo=Svelte&logoColor=white)](https://github.com/mstagon)
+[![Django](https://img.shields.io/badge/Django-FF3E00?style=flat-square&logo=Svelte&logoColor=white)](https://github.com/mstagon)
+[![Flask](https://img.shields.io/badge/Flask-FF3E00?style=flat-square&logo=Svelte&logoColor=white)](https://github.com/mstagon)
+[![FastApi](https://img.shields.io/badge/Fastapi-FF3E00?style=flat-square&logo=Svelte&logoColor=white)](https://github.com/mstagon)
 
 
 
