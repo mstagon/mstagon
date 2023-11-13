@@ -20,4 +20,4 @@
 [![React,React Native](https://img.shields.io/badge/React%20/%20ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black)](https://github.com/mstagon) [![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)](https://github.com/mstagon)
 <br>
 <br><br>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmstagon&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/mstagon)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmstagon&count_bg=%234BC3E9&title_bg=%2300FF9C&icon=bilibili.svg&icon_color=%23E30000&title=Today&edge_flat=false)](https://github.com/mstagon)
