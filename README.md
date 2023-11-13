@@ -7,10 +7,10 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/mstagon)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)](https://github.com/mstagon)
 [![FastApi](https://img.shields.io/badge/FastApi-009688?style=flat-square&logo=fastapi&logoColor=white)](https://github.com/mstagon)
-<br>
 [![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)](https://github.com/mstagon)
+<br>
 [![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://github.com/mstagon)
-[![Pytorch](https://img.shields.io/badge/PyTorch=EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://github.com/mstagon)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://github.com/mstagon)
 <br>
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)](https://github.com/mstagon)
 [![FastApi](https://img.shields.io/badge/Flutter-51BFF0?style=flat-square&logo=flutter&logoColor=white)](https://github.com/mstagon)
