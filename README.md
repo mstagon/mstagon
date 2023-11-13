@@ -2,7 +2,7 @@
 
 <div align=center>
 
-## 🌹 t e c h 🌹
+## 🛠️ t e c h 🛠️
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/mstagon)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)](https://github.com/mstagon)
