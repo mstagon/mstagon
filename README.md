@@ -23,5 +23,5 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmstagon&count_bg=%234BC3E9&title_bg=%2300FF9C&icon=bilibili.svg&icon_color=%23E30000&title=Today&edge_flat=false)](https://github.com/mstagon)
 <br>
 ## 💫 m e 
-[![Tech Blog](https://img.shields.io/badge/Blog-000000?style=flat-square&logo=notion&logoColor=white)](https://github.com/mstagon)[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:one.devcms21@gmail.com)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://github.com/mstagon)  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:one.devcms21@gmail.com)
 <br><br><br>
