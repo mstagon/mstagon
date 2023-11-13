@@ -15,9 +15,9 @@
 <br>
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/mstagon)
-[![Django](https://img.shields.io/badge/Django-FF3E00?style=flat-square&logo=Svelte&logoColor=white)](https://github.com/mstagon)
-[![Flask](https://img.shields.io/badge/Flask-FF3E00?style=flat-square&logo=Svelte&logoColor=white)](https://github.com/mstagon)
-[![FastApi](https://img.shields.io/badge/Fastapi-FF3E00?style=flat-square&logo=Svelte&logoColor=white)](https://github.com/mstagon)
+[![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)](https://github.com/mstagon)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)](https://github.com/mstagon)
+[![FastApi](https://img.shields.io/badge/Fastapi-009688?style=flat-square&logo=fastapi&logoColor=white)](https://github.com/mstagon)
 
 
 
