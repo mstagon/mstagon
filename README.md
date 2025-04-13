@@ -5,13 +5,16 @@
 ## 🛠️ t e c h 🛠️
 💻Mainly used
 <br>
+[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://github.com/mstagon)
+[![TS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=TypeScript&logoColor=black)](https://github.com/mstagon)
+<br>
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)](https://github.com/mstagon)
+[![Flutter](https://img.shields.io/badge/Flutter-51BFF0?style=flat-square&logo=flutter&logoColor=white)](https://github.com/mstagon)
+<br>
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/mstagon)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)](https://github.com/mstagon)
 [![FastApi](https://img.shields.io/badge/FastApi-009688?style=flat-square&logo=fastapi&logoColor=white)](https://github.com/mstagon)
 [![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)](https://github.com/mstagon)
-<br>
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)](https://github.com/mstagon)
-[![Flutter](https://img.shields.io/badge/Flutter-51BFF0?style=flat-square&logo=flutter&logoColor=white)](https://github.com/mstagon)
 <br>
 ⌨️I've used it
 <br>
