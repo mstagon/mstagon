@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=CMS&fontSize=70)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmstagon&count_bg=%234BC3E9&title_bg=%2300FF9C&icon=bilibili.svg&icon_color=%23E30000&title=Today&edge_flat=false)](https://github.com/mstagon)
 <div align=center>
 
 ## 🛠️ t e c h 🛠️
