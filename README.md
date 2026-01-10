@@ -133,14 +133,13 @@ Docker 기반 서비스 패키징, CI/CD 자동화,
 
 <br/>
 
-<a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://devcms.me">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-실제 서비스 단위 프로젝트와  
-설계 · 배포 · 운영 경험을 정리했습니다.
+프로젝트와 설계 · 배포 · 운영 경험을 정리했습니다.
 
 </td>
 
@@ -151,8 +150,8 @@ Docker 기반 서비스 패키징, CI/CD 자동화,
 
 <br/>
 
-<a href="YOUR_BLOG_URL">
-  <img src="https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=hashnode&logoColor=white"/>
+<a href="https://velog.io/@devcms21">
+  <img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
 </a>
 
 <br/><br/>
