@@ -119,14 +119,6 @@ Docker 기반 서비스 패키징, CI/CD 자동화,
 
 <br/>
 
----
-
-## 📈 GitHub Activity
-
-<img src="https://github-readme-stats.vercel.app/api?username=mstagon&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mstagon&theme=tokyonight&hide_border=true" width="48%"/>
-
-<br/>
 
 ---
 
